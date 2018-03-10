@@ -1,0 +1,11 @@
+#audio{
+	display: block;
+}
+
+#video{
+
+}
+
+#audio, #video{
+	text-align: center;
+}
